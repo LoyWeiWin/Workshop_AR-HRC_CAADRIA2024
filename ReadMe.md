@@ -6,9 +6,11 @@
 
 ![Flyer](90_Images/IMG_00_Recruitment_MediumScaleFabrication.png)
 
-👉 [Slides](https://docs.google.com/presentation/d/1XioagUYqCVWCgxudyw0m4pQa-cu9_5Pf7duuSE7PYMo) | [Overview](#overview) | [Requirements](#requirements) | [Installation](#installation) | [Need Help? Press here](https://discord.gg/zKXf2BGzSf)
+👉 [Tomorrow Slides](https://docs.google.com/presentation/d/1XioagUYqCVWCgxudyw0m4pQa-cu9_5Pf7duuSE7PYMo) | [Overview](#overview) | [Requirements](#requirements) | [Installation](#installation) | [Need Help? Press here](https://discord.gg/zKXf2BGzSf)
 
 ## Overview
+
+![Timetable](90_Images/IMG_00_CAADRIAWorkshopTimeSchedule.png)
 
 ### Day 1
 
