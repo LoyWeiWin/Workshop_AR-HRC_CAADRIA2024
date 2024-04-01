@@ -2,9 +2,11 @@
 This folder will contain all images for publication and recuitment purposes. 
 
 ## Naming Convention
-The files will be following the following naming convention.
+**Notes**: The files will be following the following naming convention.
 
 Type_AuthorIndex_Purpose_Name
+
+---
 
 ### Type
 IMG     Image
