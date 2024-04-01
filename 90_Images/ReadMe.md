@@ -9,11 +9,11 @@ Type_AuthorIndex_Purpose_Name
 ---
 
 ### Type
-IMG     Image
+IMG       Image
 
-VID     Video
+VID       Video
 
-GIF     Short Animation
+GIF       Short Animation
 
 ###
 00      LOY
