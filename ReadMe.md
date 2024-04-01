@@ -10,8 +10,6 @@
 
 ## Overview
 
-![Timetable](90_Images/IMG_00_CAADRIAWorkshopTimeSchedule.png)
-
 ### Day 1
 
 * Hands-on Exercise: Collaborative assembly exercise to construct small scale Voronoi structure.
