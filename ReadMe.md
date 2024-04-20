@@ -6,7 +6,7 @@
 
 ![Flyer](90_Timetable&Images/IMG_00_Recruitment_MediumScaleFabrication.png)
 
-👉 [Tomorrow Slides]([https://github.com/LoyWeiWin/AR-HRC_CAADRIA2024_Workshop/blob/main/01_WorkshopMaterial/Day2_AR-enabledHRISystem/00_WorkshopSlides/240421_Presentation_CAADRIA%20Workshop_DAY02.pdf]) | [Overview](#overview) | [Requirements](#requirements) | [Installation](#installation) | [Need Help? Press here](https://discord.gg/zKXf2BGzSf)
+👉 [Tomorrow Slides](https://github.com/LoyWeiWin/AR-HRC_CAADRIA2024_Workshop/blob/main/01_WorkshopMaterial/Day2_AR-enabledHRISystem/00_WorkshopSlides/240421_Presentation_CAADRIA%20Workshop_DAY02.pdf) | [Overview](#overview) | [Requirements](#requirements) | [Installation](#installation) | [Need Help? Press here](https://discord.gg/zKXf2BGzSf)
 
 ## Overview
 
